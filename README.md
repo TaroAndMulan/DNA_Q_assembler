@@ -8,6 +8,5 @@ genome assembler using Q learning
     solution: [9,8,7,6,5,4,3,2,1,0]  ---> TACTAGCAATACGCTTGCGTTCGGT
 
 
-**this is a draft version, everything is hardcoded. it will support fasta file format and editable hyperparameter in a later version.
 
 **current setting (3,000,000 episode , gamma = 0.99 , alpha = 0.8, linear epsilon decay)
