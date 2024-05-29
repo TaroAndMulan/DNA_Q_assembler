@@ -1,5 +1,5 @@
 # DNA_Q_assembler
-genome assembler using deep Q learning
+genome assembler using Q learning
 1. install https://github.com/kriowloo/gymnome-assembly
 2. run "python DNA_Q_assembler.py" to train Q learning agent on the following reads
 
